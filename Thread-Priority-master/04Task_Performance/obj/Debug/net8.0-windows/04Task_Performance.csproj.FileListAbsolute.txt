@@ -1,0 +1,16 @@
+C:\Users\ameer\OneDrive\Desktop\Thread-Priority-master\04Task_Performance\bin\Debug\net8.0-windows\04Task_Performance.exe
+C:\Users\ameer\OneDrive\Desktop\Thread-Priority-master\04Task_Performance\bin\Debug\net8.0-windows\04Task_Performance.deps.json
+C:\Users\ameer\OneDrive\Desktop\Thread-Priority-master\04Task_Performance\bin\Debug\net8.0-windows\04Task_Performance.runtimeconfig.json
+C:\Users\ameer\OneDrive\Desktop\Thread-Priority-master\04Task_Performance\bin\Debug\net8.0-windows\04Task_Performance.dll
+C:\Users\ameer\OneDrive\Desktop\Thread-Priority-master\04Task_Performance\bin\Debug\net8.0-windows\04Task_Performance.pdb
+C:\Users\ameer\OneDrive\Desktop\Thread-Priority-master\04Task_Performance\obj\Debug\net8.0-windows\_04Task_Performance.FrmTrackThread.resources
+C:\Users\ameer\OneDrive\Desktop\Thread-Priority-master\04Task_Performance\obj\Debug\net8.0-windows\04Task_Performance.csproj.GenerateResource.cache
+C:\Users\ameer\OneDrive\Desktop\Thread-Priority-master\04Task_Performance\obj\Debug\net8.0-windows\04Task_Performance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameer\OneDrive\Desktop\Thread-Priority-master\04Task_Performance\obj\Debug\net8.0-windows\04Task_Performance.AssemblyInfoInputs.cache
+C:\Users\ameer\OneDrive\Desktop\Thread-Priority-master\04Task_Performance\obj\Debug\net8.0-windows\04Task_Performance.AssemblyInfo.cs
+C:\Users\ameer\OneDrive\Desktop\Thread-Priority-master\04Task_Performance\obj\Debug\net8.0-windows\04Task_Performance.csproj.CoreCompileInputs.cache
+C:\Users\ameer\OneDrive\Desktop\Thread-Priority-master\04Task_Performance\obj\Debug\net8.0-windows\04Task_Performance.dll
+C:\Users\ameer\OneDrive\Desktop\Thread-Priority-master\04Task_Performance\obj\Debug\net8.0-windows\refint\04Task_Performance.dll
+C:\Users\ameer\OneDrive\Desktop\Thread-Priority-master\04Task_Performance\obj\Debug\net8.0-windows\04Task_Performance.pdb
+C:\Users\ameer\OneDrive\Desktop\Thread-Priority-master\04Task_Performance\obj\Debug\net8.0-windows\04Task_Performance.genruntimeconfig.cache
+C:\Users\ameer\OneDrive\Desktop\Thread-Priority-master\04Task_Performance\obj\Debug\net8.0-windows\ref\04Task_Performance.dll
